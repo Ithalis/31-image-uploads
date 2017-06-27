@@ -10,7 +10,7 @@ module.exports = {
   },
   controller: [function() {
     this.$onInit = () => {
-
+      this.title = 'thumbnails';
     }
   }]
 }
